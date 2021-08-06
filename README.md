@@ -1,9 +1,6 @@
 <h2> Hi, I'm Allan Assis <img src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif" width="70"></h2>
 <p><em>Software engineer at <a href="https://www.globo.com/">Globo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img style = "vertical-align:middle" width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" />
-
-
 <div align="left">
 
 <i>Let's Connect:</i><br>
@@ -13,6 +10,7 @@
 <a href="https://www.instagram.com/allan.ass1s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
+<img style="padding-top:100px" width = "35%" align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=allanassis&show_icons=true)
 
