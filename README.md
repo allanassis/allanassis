@@ -1,7 +1,7 @@
 <h2> Hi, I'm Allan Assis <img src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif" width="70"></h2>
 <p><em>Software engineer at <a href="https://www.globo.com/">Globo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img width = "35%" align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" />
+<img style = "vertical-align:middle" width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" />
 
 
 <div align="left">
