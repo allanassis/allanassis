@@ -1,5 +1,5 @@
 <h2> Hi, I'm Allan Assis <img src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif" width="70"></h2>
-<p><em>Software engineer at <a href="https://www.globo.com/">Globo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software engineer at <a href="[https://www.amazon.com/]">Amazon</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <div align="left">
 
